@@ -15,7 +15,7 @@ Este projeto foi desenvolvido utilizando das seguintes tecnologias:
 - CSS Flexbox
 - CSS Grid
 
-## :memo: Licença
+## Licença
 
 Proibida a utilização e/ou reprodução dos arquivos para fins diferentes de aprendizado.
 
