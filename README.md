@@ -4,16 +4,6 @@
 
 Trabalho de faculdade feito para a disciplina de Aplicação Web e Móveis, a proposta era a criação de uma página web, sendo um portfolio pessoal.
 
-## Tecnologias
-
-Este projeto foi desenvolvido utilizando das seguintes tecnologias:
-
-- HTML5
-- Semantic HTML5 markup
-- CSS3
-- CSS custom properties
-- CSS Flexbox
-- CSS Grid
 
 ## Licença
 
